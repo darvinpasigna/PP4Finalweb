@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PP4Finalweb/static/css/main.55496f30.css",
+    "main.js": "/PP4Finalweb/static/js/main.80c2b71e.js",
+    "static/js/453.ed3810f9.chunk.js": "/PP4Finalweb/static/js/453.ed3810f9.chunk.js",
+    "static/media/M_avatar2.jpg": "/PP4Finalweb/static/media/M_avatar2.7bec8b3838b9a89b7954.jpg",
+    "static/media/background.jpg": "/PP4Finalweb/static/media/background.f7523ac592bf08dbe6af.jpg",
+    "static/media/M_avatar1.jpeg": "/PP4Finalweb/static/media/M_avatar1.8dbc4a22ffeb8360464c.jpeg",
+    "static/media/M_avatar3.png": "/PP4Finalweb/static/media/M_avatar3.eab3bb194352a75d1b10.png",
+    "static/media/Logo.png": "/PP4Finalweb/static/media/Logo.7243e1007d22d6eede17.png",
+    "static/media/success.png": "/PP4Finalweb/static/media/success.bbbc7525881c9e8143f1.png",
+    "index.html": "/PP4Finalweb/index.html",
+    "main.55496f30.css.map": "/PP4Finalweb/static/css/main.55496f30.css.map",
+    "main.80c2b71e.js.map": "/PP4Finalweb/static/js/main.80c2b71e.js.map",
+    "453.ed3810f9.chunk.js.map": "/PP4Finalweb/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55496f30.css",
+    "static/js/main.80c2b71e.js"
+  ]
+}
